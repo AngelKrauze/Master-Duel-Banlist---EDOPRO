@@ -6,10 +6,10 @@ Banlist created to play Master Duel format on EDOPRO.
 <img src="https://wsrv.nl/?url=https://s3.duellinksmeta.com/img/front-page/banlist.webp&w=1200&output=webp&we&n=-1&maxage=7d" alt="" width="400" height="500">
 
 ## 2. Usage
-- Download and save the file `MD.lflist.conf` inside your limited/forbidden folder `~/repositories/lflists/`
-- Open your EDOPRO then select **Deck List** > **Ban List** > **2025.10.08 MD**.
+- Download the file `MD.lflist.conf` and save it inside your limited/forbidden folder `~/repositories/lflists/`.
+- Open your EDOPRO then select **Deck** > **Ban List** > **2025.10.08 MD**.
 
-## 3. Lastest update
+## 3. Latest update
 
 ### Unlimited
 
@@ -39,7 +39,7 @@ Banlist created to play Master Duel format on EDOPRO.
 
 ### Limited
 
-**Maliss P Dormouse (3 ⇒ 1))**
+**Maliss P Dormouse (3 ⇒ 1)**
 
 <img src="https://images.ygoprodeck.com/images/cards/32061192.jpg" alt="" width="50" height="100">
 
@@ -56,6 +56,5 @@ Banlist created to play Master Duel format on EDOPRO.
 **Number 41: Bagooska the Terribly Tired Tapir (3 ⇒ 0)**
 
 <img src="https://images.ygoprodeck.com/images/cards/90590303.jpg" alt="" width="50" height="100">
-
 
 <sub>Current Banlist: October 8th.</sub>
